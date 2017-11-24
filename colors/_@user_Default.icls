@@ -3,11 +3,12 @@
     <property name="created">2017-05-21T19:25:13</property>
     <property name="ide">Gogland</property>
     <property name="ideVersion">1.0.0.0</property>
-    <property name="modified">2017-11-24T17:40:39</property>
+    <property name="modified">2017-11-24T18:07:12</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="d5d6f9" />
+    <option name="SELECTED_INDENT_GUIDE" value="ababab" />
     <option name="SELECTION_BACKGROUND" value="9fa5c3" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="3e3e3e" />
