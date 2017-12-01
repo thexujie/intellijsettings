@@ -3,7 +3,7 @@
     <property name="created">2017-05-21T19:25:13</property>
     <property name="ide">Gogland</property>
     <property name="ideVersion">1.0.0.0</property>
-    <property name="modified">2017-11-24T18:07:12</property>
+    <property name="modified">2017-12-01T15:26:33</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -60,7 +60,8 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="FOREGROUND" value="3a5608" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -98,7 +99,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="3a4da5" />
+        <option name="FOREGROUND" value="89000d" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
